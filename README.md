@@ -1,0 +1,2 @@
+# Logisitic-Regression-
+ Analytic Modeling with Logistic Regression a. Modelling Binary Outcomes, Introduction to Logistic Regression. b. Estimation and inference c. Interpretation d. Model Building e. Goodness of Fit and Model Uncertainty. f. The logistic model under different sampling schemes. i. Case-Control Studies ii. Matched Case-control studies g. Multinomial Logistic Regression h. Ordinal Logistic Regression
